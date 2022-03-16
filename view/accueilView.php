@@ -1,0 +1,9 @@
+<?php
+    require('base.php');
+?>
+    <section>
+        <?php 
+        ?>
+    </section>
+</body>
+</html>
